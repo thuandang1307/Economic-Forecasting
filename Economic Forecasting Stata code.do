@@ -2,7 +2,7 @@
 * Ki thuat lap trinh Project final
  
  
-*          Đặng Văn Thuận - 31211020299
+*          Đặng Văn Thuận 
  
 
 import excel "/Users/thuan/Library/Mobile Documents/com~apple~CloudDocs/Sem5/KyThuatLapTrinh/CuoiKi/CPI/Vietnam_dataset_2002_2019.xlsx", sheet("Vietnam_dataset_2002_2019") firstrow clear
